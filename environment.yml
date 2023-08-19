@@ -1,0 +1,4 @@
+name: environment
+channels:
+  - defaults
+prefix: C:\Users\kunal\miniconda3\envs\environment
